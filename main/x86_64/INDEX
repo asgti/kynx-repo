@@ -1,8 +1,11 @@
 main/x86_64/7zip-23.01-r0.apk
 main/x86_64/bash-5.2.21-r0.apk
 main/x86_64/bash-completion-2.11-r6.apk
+main/x86_64/ca-certificates-20250911-r0.apk
 main/x86_64/dropbear-2022.83-r4.apk
+main/x86_64/gcompat-1.1.0-r4.apk
 main/x86_64/nano-7.2-r1.apk
 main/x86_64/neofetch-7.1.0-r1.apk
 main/x86_64/openssh-9.6_p1-r2.apk
+main/x86_64/openssl-3.1.8-r1.apk
 main/x86_64/sudo-1.9.15_p2-r0.apk
